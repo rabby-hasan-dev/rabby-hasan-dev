@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on mern stack development.  
   
 
-- 🌱 I’m currently learning MySQL Database .  
+- 🌱 I’m currently learning MySQL Database and DevOps fundamentals.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -93,7 +93,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
