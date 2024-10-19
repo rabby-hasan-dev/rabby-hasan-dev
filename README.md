@@ -56,6 +56,8 @@
 
 
 
+<!--
+
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -66,6 +68,9 @@
 </div>
 
 </td></tr></table>  
+
+
+-->
 
 <br/>  
 
@@ -86,6 +91,9 @@
 </a>
 <a href="https://twitter.com/rabby_hasan_dev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  <a href="https://medium.com/https://medium.com/@rabby-hasan" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
