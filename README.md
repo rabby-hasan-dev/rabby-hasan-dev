@@ -19,9 +19,11 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table>
 
+<tr>
 
+<td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -38,9 +40,10 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
+<td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -52,25 +55,24 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
+<!--<td valign="top" width="33%">-->
+<!--### DevOps  -->
+<!--<div align="center">  -->
+<!--<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  -->
+<!--<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  -->
+<!--<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  -->
+<!--<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  -->
+<!--<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  -->
+<!--</div>-->
 
-<!--
+<!--</td>-->
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
+</tr>
+</table>  
 
-</td></tr></table>  
-
-
--->
 
 <br/>  
 
@@ -102,15 +104,19 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="table-layout: fixed; width: 100%; overflow: hidden;">
 
+<tr>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
 
-</td><td valign="top" width="50%">
-
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
 
-</td></tr></table>  
+</tr>
+</table>  
 
 <br/>  
 
