@@ -120,7 +120,7 @@
 
 
 <tr > 
-<td colspan="2" >
+<td colspan="3" >
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-hasan-dev&theme=transparent&hide_border=true&border_radius=5&card_width=600&type=png" alt="GitHub Streak" />
 </td>
 
