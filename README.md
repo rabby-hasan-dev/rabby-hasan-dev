@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693374619303?e=1732147200&v=beta&t=BrPCA0akjUhRptVjcBSxCe9vuRacZJIUUD2-wAQchic" align="center" style="width: 100%" />
 </div>  
   
@@ -115,8 +115,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td>
 
+
 </tr>
+
+
+<tr > 
+<td colspan="2" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-hasan-dev&theme=transparent&hide_border=true&border_radius=5&card_width=600&type=png" alt="GitHub Streak" />
+</td>
+
+</tr>
+
+
 </table>  
 
 <br/>  
-
