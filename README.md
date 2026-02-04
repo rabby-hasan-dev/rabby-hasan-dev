@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693374619303?e=1747872000&v=beta&t=D_mYghh7q5oAWrwvFM51BpcJDOegInlmNW_4uAr5DMs" align="center" style="width: 100%" />
+<img src="[https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693374619303?e=1747872000&v=beta&t=D_mYghh7q5oAWrwvFM51BpcJDOegInlmNW_4uAr5DMs](https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693374619303?e=2147483647&v=beta&t=OpP8V2FJiGJEGcKBB9_zuPGwhcfWvF7BqNiLCQDnNVk)" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi, I'm Rabby Hasan 👋 — a Full-Stack Developer & DevOps enthusiast 🚀</div>
