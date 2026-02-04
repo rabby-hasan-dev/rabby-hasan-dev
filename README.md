@@ -18,7 +18,7 @@
 
 <!-- Frontend -->
 <div style="flex: 1 1 300px; max-width: 350px;">
-### Frontend
+ Frontend
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -34,7 +34,7 @@
 
 <!-- Backend -->
 <div style="flex: 1 1 300px; max-width: 350px;">
-### Backend & Databases
+ Backend & Databases
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -49,16 +49,28 @@
 
 <!-- DevOps -->
 <div style="flex: 1 1 300px; max-width: 350px;">
-### DevOps & Cloud
+ DevOps & Cloud
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/digitalocean-1.svg" alt="DigitalOcean" height="50" /></a>  
 <a href="https://www.mailgun.com/" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" /></a>  
-<a href="https://vercel.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Vercel-logo.svg" alt="Vercel" height="50" /></a>  
-<a href="https://render.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_Logo.svg" alt="Render" height="50" /></a>  
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" /></a>  
-<a href="https://developers.google.com/maps" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_icon.svg" alt="Google Maps" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/vercel.svg" alt="Vercel" height="50" />
+</a>
+
+<a href="https://render.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" alt="Render" height="50" />
+</a>
+
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/netlify.svg" alt="Netlify" height="50" />
+</a>
+
+<a href="https://developers.google.com/maps" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" alt="Google Maps" height="50" />
+</a>
+  
 </div>
 </div>
 
