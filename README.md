@@ -53,16 +53,34 @@
 
 ### DevOps & Cloud
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/DigitalOcean_logo.svg" alt="DigitalOcean" height="50" /></a>  
-<a href="https://www.mailgun.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" /></a>  
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Vercel_logo.svg" alt="Vercel" height="50" /></a>  
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://render.com/images/logo.svg" alt="Render" height="50" /></a>  
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+</a>  
+<a href="https://aws.amazon.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+</a>  
+<a href="https://www.digitalocean.com/" target="_blank">
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/digitalocean-1.svg" alt="DigitalOcean" height="50" />
+</a>  
+<a href="https://www.mailgun.com/" target="_blank">
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" />
+</a>  
+<a href="https://vercel.com/" target="_blank">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Vercel-logo.svg" alt="Vercel" height="50" />
+</a>  
+<a href="https://render.com/" target="_blank">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_Logo.svg" alt="Render" height="50" />
+</a>  
+<a href="https://www.netlify.com/" target="_blank">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" />
+</a>  
+<a href="https://developers.google.com/maps" target="_blank">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_icon.svg" alt="Google Maps" height="50" />
+</a>  
 </div>
 
 </td>
+
 
 </tr>
 </table>
