@@ -2,12 +2,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693374619303?e=1747872000&v=beta&t=D_mYghh7q5oAWrwvFM51BpcJDOegInlmNW_4uAr5DMs" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Hi, I'm Rabby Hasan 👋 — a Full-Stack Developer specializing in scalable web applications 🚀</div>
+### <div align="center">Hi, I'm Rabby Hasan 👋 — a Full-Stack Developer & DevOps enthusiast 🚀</div>
 
 - 🔭 Currently building projects using **MERN stack, PostgreSQL, Redis, and real-time apps with Socket.IO**  
 - 🌱 Actively learning **Data Structures & Algorithms** and **competitive programming**  
-- 💡 I enjoy designing **scalable, maintainable, and high-performance web solutions**  
-- ❓ Ask me about **frontend, backend, real-time systems, databases, and web architecture**  
+- 💡 Passionate about designing **scalable, maintainable, and high-performance web solutions**  
+- ❓ Ask me about **full-stack development, real-time systems, cloud deployment, and web architecture**  
 
 ---
 
@@ -16,7 +16,7 @@
 <table>
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### Frontend
 <div align="center">  
@@ -33,7 +33,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### Backend & Databases
 <div align="center">  
@@ -45,6 +45,21 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="50" /></a>  
+</div>
+
+</td>
+
+<td valign="top" width="33%">
+
+### DevOps & Cloud
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/DigitalOcean_logo.svg" alt="DigitalOcean" height="50" /></a>  
+<a href="https://www.mailgun.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Vercel_logo.svg" alt="Vercel" height="50" /></a>  
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://render.com/images/logo.svg" alt="Render" height="50" /></a>  
+<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" /></a>  
 </div>
 
 </td>
