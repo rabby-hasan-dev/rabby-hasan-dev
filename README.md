@@ -91,9 +91,18 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" style="flex: 1 1 300px; max-width: 600px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" style="flex: 1 1 300px; max-width: 600px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-hasan-dev&theme=transparent&hide_border=true&border_radius=5&card_width=600&type=png" style="flex: 1 1 300px; max-width: 600px;" />
+
+<div align="center">
+
+<!-- GitHub Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Rabby's GitHub Stats" width="320" style="margin: 10px;" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact&theme=radical" alt="Top Languages" width="320" style="margin: 10px;" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rabby-hasan-dev&theme=radical&hide_border=true&border_radius=5&card_width=320&type=png" alt="GitHub Streak" width="320" style="margin: 10px;" />
+
 </div>
+
 
