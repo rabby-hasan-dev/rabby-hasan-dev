@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693374619303?e=2147483647&v=beta&t=OpP8V2FJiGJEGcKBB9_zuPGwhcfWvF7BqNiLCQDnNVk" align="center" style="width: 100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHOmY187BEsnA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693374619303?e=2147483647&v=beta&t=OpP8V2FJiGJEGcKBB9_zuPGwhcfWvF7BqNiLCQDnNVk" align="center" style="width: 100%; max-width: 100%; height: auto;" />
 
 </div>
 
@@ -14,77 +14,55 @@
 
 ## 💻 Expertise & Skills
 
-<table>
-<tr>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<td valign="top" width="33%">
-
+<!-- Frontend -->
+<div style="flex: 1 1 300px; max-width: 350px;">
 ### Frontend
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
 </div>
 
-</td>
-
-<td valign="top" width="33%">
-
+<!-- Backend -->
+<div style="flex: 1 1 300px; max-width: 350px;">
 ### Backend & Databases
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://socket.io/" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="50" /></a>  
+</div>
 </div>
 
-</td>
-
-<td valign="top" width="33%">
-
+<!-- DevOps -->
+<div style="flex: 1 1 300px; max-width: 350px;">
 ### DevOps & Cloud
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-</a>  
-<a href="https://aws.amazon.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-</a>  
-<a href="https://www.digitalocean.com/" target="_blank">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/digitalocean-1.svg" alt="DigitalOcean" height="50" />
-</a>  
-<a href="https://www.mailgun.com/" target="_blank">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" />
-</a>  
-<a href="https://vercel.com/" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Vercel-logo.svg" alt="Vercel" height="50" />
-</a>  
-<a href="https://render.com/" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_Logo.svg" alt="Render" height="50" />
-</a>  
-<a href="https://www.netlify.com/" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" />
-</a>  
-<a href="https://developers.google.com/maps" target="_blank">
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_icon.svg" alt="Google Maps" height="50" />
-</a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/digitalocean-1.svg" alt="DigitalOcean" height="50" /></a>  
+<a href="https://www.mailgun.com/" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/mailgun.svg" alt="Mailgun" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Vercel-logo.svg" alt="Vercel" height="50" /></a>  
+<a href="https://render.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Render_Logo.svg" alt="Render" height="50" /></a>  
+<a href="https://www.netlify.com/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Netlify_logo.svg" alt="Netlify" height="50" /></a>  
+<a href="https://developers.google.com/maps" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_icon.svg" alt="Google Maps" height="50" /></a>  
+</div>
 </div>
 
-</td>
-
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -113,18 +91,9 @@
 ---
 
 ## 📊 GitHub Stats
-<table style="table-layout: fixed; width: 100%; overflow: hidden;">
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-hasan-dev&theme=transparent&hide_border=true&border_radius=5&card_width=600&type=png" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=rabby-hasan-dev&show_icons=true&count_private=true&hide_border=true" style="flex: 1 1 300px; max-width: 600px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby-hasan-dev&hide_border=true&layout=compact" style="flex: 1 1 300px; max-width: 600px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-hasan-dev&theme=transparent&hide_border=true&border_radius=5&card_width=600&type=png" style="flex: 1 1 300px; max-width: 600px;" />
+</div>
+
